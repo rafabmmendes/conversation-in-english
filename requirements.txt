@@ -1,4 +1,4 @@
+google-generativeai
 streamlit
-groq
-gTTS
-streamlit-mic-recorder
+SpeechRecognition
+pyttsx3
